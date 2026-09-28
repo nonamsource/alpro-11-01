@@ -52,7 +52,7 @@ func main() {
 ```
 
 #### Output
-[Screenshoot Output Guided]![alt text](<praktikum alpro/alpro-11-01/praktikum/02-bahasa-pemrograman-go/guided/skor/output skor.png>)
+[Screenshoot Output Guided]![alt text](<img width="1642" height="606" alt="output skor" src="https://github.com/user-attachments/assets/5fbc6f0f-ad8e-42f7-949a-1adfb7388c8a" />)
 
 
 #### Deskripsi
@@ -84,7 +84,7 @@ func main() {
 ```
 
 #### Output
-[Screenshoot Output Guided]![alt text](<praktikum alpro/alpro-11-01/praktikum/02-bahasa-pemrograman-go/guided/tukar/output tukar.png>)
+[Screenshoot Output Guided]![alt text](<img width="1626" height="621" alt="output tukar" src="https://github.com/user-attachments/assets/3aed94dc-39a0-4444-b76d-ffbfc41821b5" />)
 
 
 #### Deskripsi
@@ -112,7 +112,8 @@ func main() {
 ```
 
 #### Output
-[Screenshoot Output Guided]![alt text](<praktikum alpro/alpro-11-01/praktikum/02-bahasa-pemrograman-go/guided/lingkaran/output lingkaran.png>)
+[Screenshoot Output Guided]![alt text](<img width="1643" height="722" alt="output lingkaran" src="https://github.com/user-attachments/assets/1a55b134-f1fc-4f2b-aced-94f7318b5865" />)
+
 
 #### Deskripsi
 [Dalam tugas lingkaran.go, soal memerintahkan untuk menghitung luas suatu lingkaran. Dalam penginputannya, baris program ini menggunakan tipe data float64 untuk variabel nilai jari-jari dan luas lingkaran, lalu fmt.Scan untuk membaca masukkan nilai jari-jari, setelah itu kalkulasi aritmatika menggunakan rumus luas lingkaran (pi * r * r), dan yang terakhir fmt.Println untuk menampilkan output luas lingkaran yang menggunakan format %.2f untuk menampilkan hasil perhitungan dengan dua angka di belakang koma supaya terlihat lebih rapih. Hasil akhir dari baris program ini adalah program dapat membaca input kode dengan baik dan dapat menghitung nilai luas lingkaran dengan baik dan akurat
@@ -146,7 +147,7 @@ func main() {
 ```
 
 #### Output
-[Screenshoot Output Guided]![alt text](<praktikum alpro/alpro-11-01/praktikum/02-bahasa-pemrograman-go/guided/suhu/output suhu.png>)
+[Screenshoot Output Guided]![alt text](<img width="1628" height="592" alt="output suhu" src="https://github.com/user-attachments/assets/1fc92e41-e792-4dca-be89-6208634843cb" />)
 
 
 #### Deskripsi
@@ -182,7 +183,7 @@ func main() {
 
 
 ##### Output
-[Screenshoot Ouput Unguided]![alt text](<praktikum alpro/alpro-11-01/praktikum/02-bahasa-pemrograman-go/unguided/kalkulator/output kalkulator.go.png>)
+[Screenshoot Ouput Unguided]![alt text](<img width="1632" height="612" alt="output kalkulator go" src="https://github.com/user-attachments/assets/c5ac6c08-b1bc-4240-bc19-460712c53ab4" />)
 
 
 
@@ -223,7 +224,8 @@ func main() {
 ```
 
 ##### Output
-[Screenshot Output Unguided]![alt text](<praktikum alpro/alpro-11-01/praktikum/02-bahasa-pemrograman-go/unguided/cacahuang/output.png>)
+[Screenshot Output Unguided]![alt text](<img width="1632" height="600" alt="output cacahuang go" src="https://github.com/user-attachments/assets/06e53aba-d8d3-4dbe-b403-9e04655f87ba" />)
+
 
 #### Deskripsi
 [Dalam tugas cacahuang.go, soal memerintahkan untuk menyatakan sebuah nilai mata uang rupiah ke dalam pecahan uang sepuluh ribu, lima ribu, seribu dengan jumlah lembar se-sedikit mungkin. Dalam penginputannya, barisan program ini menggunakan tipe data int untuk variabel total uang, setelah itu dilanjut dengan kalkulasi aritmatika untuk pembagian total uang dan perhitungan sisa uang, yang terakhir program ini menggunakan fmt.Pintln untuk menampilkan output hasil pembagian dan sisa uang. Hasil akhir dari baris program ini adalahprogram ini dapat membaca input kode dan menghitung hasil pmbagian juga sisa total uang dengan baik dan akurat.]
