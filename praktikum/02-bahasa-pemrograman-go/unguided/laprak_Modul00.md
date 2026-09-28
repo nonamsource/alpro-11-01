@@ -85,7 +85,8 @@ func main() {
 ```
 
 #### Output
-[Screenshoot Output Guided]![alt text](<img width="1626" height="621" alt="output tukar" src="https://github.com/user-attachments/assets/3aed94dc-39a0-4444-b76d-ffbfc41821b5" />)
+<img width="1626" height="621" alt="output tukar" src="https://github.com/user-attachments/assets/e7efe0df-c524-46e6-b885-055aff55a3b9" />
+
 
 
 #### Deskripsi
@@ -113,7 +114,8 @@ func main() {
 ```
 
 #### Output
-[Screenshoot Output Guided]![alt text](<img width="1643" height="722" alt="output lingkaran" src="https://github.com/user-attachments/assets/1a55b134-f1fc-4f2b-aced-94f7318b5865" />)
+<img width="1643" height="722" alt="output lingkaran" src="https://github.com/user-attachments/assets/30d4baad-bd52-4d46-838b-34b88c9ee6e9" />
+
 
 
 #### Deskripsi
@@ -148,7 +150,8 @@ func main() {
 ```
 
 #### Output
-[Screenshoot Output Guided]![alt text](<img width="1628" height="592" alt="output suhu" src="https://github.com/user-attachments/assets/1fc92e41-e792-4dca-be89-6208634843cb" />)
+<img width="1628" height="592" alt="output suhu" src="https://github.com/user-attachments/assets/0c942e84-c806-4746-8602-0ae1038e523d" />
+
 
 
 #### Deskripsi
@@ -184,7 +187,8 @@ func main() {
 
 
 ##### Output
-[Screenshoot Ouput Unguided]![alt text](<img width="1632" height="612" alt="output kalkulator go" src="https://github.com/user-attachments/assets/c5ac6c08-b1bc-4240-bc19-460712c53ab4" />)
+<img width="1632" height="612" alt="output kalkulator go" src="https://github.com/user-attachments/assets/9df570f9-388a-4643-9b7a-ec51bed225d5" />
+
 
 
 
@@ -225,7 +229,8 @@ func main() {
 ```
 
 ##### Output
-[Screenshot Output Unguided]![alt text](<img width="1632" height="600" alt="output cacahuang go" src="https://github.com/user-attachments/assets/06e53aba-d8d3-4dbe-b403-9e04655f87ba" />)
+<img width="1632" height="600" alt="output cacahuang go" src="https://github.com/user-attachments/assets/e043f38f-afcb-46ed-85e6-447fc2d382c3" />
+
 
 
 #### Deskripsi
