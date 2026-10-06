@@ -52,7 +52,7 @@ func main() {
 ```
 
 #### Output
-[Screenshoot Output Guided](/praktikum/03-tipe-data-dan-instruksi-dasar/guided/konversi/Screenshot%202026-09-30%20163935.png)
+[Screenshoot Output Guided](/praktikum/03-tipe-data-dan-instruksi-dasar/guided/konversi/konversi.png)
 
 
 #### Deskripsi
@@ -80,7 +80,7 @@ func main() {
 ```
 
 #### Output
-[Screenshoot Output Guided](/praktikum/03-tipe-data-dan-instruksi-dasar/guided/konversi/tukarnilai/Screenshot%202026-09-30%20163902.png)
+[Screenshoot Output Guided](/praktikum/03-tipe-data-dan-instruksi-dasar/guided/konversi/tukarnilai/tukarnilai.png)
 
 #### Deskripsi
 [Dalam tukarnilai.go, soal memerintahkan untuk menukar suatu nilai bilangan bulat x, y, z dengan ketentuan nilai y berisi nilai x, nilai x berisi nilai z, dan nilai z berisi nilai y. Dalam penginputannya, baris program ini memnggunaka variabl x, y, z dengan tipe data interger, fmt.Scan untuk membaca input secara berurutan, lalu melakukan pertukaran nilai dengancara nilai x ditaruh sementara kedalam variabel temp agar tidak hilang, lalu menukar nilai x menjadi nilai z (x = z), menukar nilai z menjadi y (z = y), dan yang terakhir menukar nilai y dengan x yang tadi disimpan di temp (y = temp), setelah itu, fmt.println untuk memcetak ouput pertukaran nilai tersebut. Hasil akhir dari baris program ini adalah program dapat menukar nilai variabel x, y,x dengan urut dan akurat.]
@@ -109,7 +109,7 @@ func main() {
 ```
 
 #### Output
-[Screenshoot Output Guided]![alt text](/praktikum/03-tipe-data-dan-instruksi-dasar/guided/konversi/cacahuang/Screenshot%202026-09-30%20163758.png)
+[Screenshoot Output Guided]![alt text](/praktikum/03-tipe-data-dan-instruksi-dasar/guided/konversi/cacahuang/cacahuang.png)
 
 #### Deskripsi
 [Dalam cacahuang.go, soal memerintahkan untuk mencacah uang kembalian berupa lembar uang sepuluh ribu, lima ribuan, dan seribuan. Dalam penginputannya, baris program ini menggunakan variabel x dengan tipe data interger, lalu melakukan operasi hitung dengan operator pembagian (/) dan operator modulus (%), setelah itu fmt.Println untuk mencetak output pertukaran nilai uang tersebut. Hasil akhir dari baris program ini adalah program ini dapat mencacah uang kembalian dalam lembar uang sepuluh ribu, lima ribu dan seribu beserta sisanya dengan akurat.]
@@ -138,7 +138,7 @@ func main() {
 
 
 ##### Output
-[Screenshoot Ouput Unguided](/praktikum/03-tipe-data-dan-instruksi-dasar/unguided/reamur/Screenshot%202026-10-01%20215916.png)
+[Screenshoot Ouput Unguided](/praktikum/03-tipe-data-dan-instruksi-dasar/unguided/reamur/reamur.png)
 
 
 
@@ -173,7 +173,7 @@ func main() {
 ```
 
 ##### Output
-[Screenshot Output Unguided](/praktikum/03-tipe-data-dan-instruksi-dasar/unguided/jumlahhari/Screenshot%202026-10-01%20222037.png)
+[Screenshot Output Unguided](/praktikum/03-tipe-data-dan-instruksi-dasar/unguided/jumlahhari/jumlahhari.png)
 
 #### Deskripsi
 [Dalam soal jumlahhari.go, soal memerintahkan untuk mengkonversi jumlah hari ke dalam satuan tahun, bulan, minggu, dan hari. Dalam penginputannya, baris program ini menggunakan variabel totalHari dengan tipe data interger, fmt.Scan untuk membaca input dari pengguna, lalu melakukan operasi hitung konversi dan sisa totalHari ke tahun dengan rumus (totalHari / 360, totalHari % 360), konversi dan sisa sisalHari ke bulan (sisaHari / 30. sisaHari % 30), konversi sisaHari ke minggu (sisaHari / 7) dan perhitungan sisa hari dengan rumus (sisaHari % 7), setelah itu fmt.Println untuk menampilkan output konversi total hari ke tahun, bulan, minggu dan hari. Hasil akhir dari baris program ini adalah program dapat menjalankan dan menkonversi total hari ke tahun, bulan, minggu dan hasi beserta sisa harinya dengan akurat.]
